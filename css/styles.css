@@ -1,16 +1,17 @@
 .container {
-  border: 1px solid;
-  color: #c25c68;
+  border: 2px solid;
+  color: #61210F;
   border-radius: 20px;
+  border-color: #A18276;
 }
 
 .background {
   min-height: 2000px;
-  background-image: linear-gradient(rgba(178, 236, 225), #f5b0cb, #f3e3d5);
+  background-color: #F9EDCC;
 }
 
 .tas {
-  font-family: "K2D", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .button {
   background-color: #f49abe;
