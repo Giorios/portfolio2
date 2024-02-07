@@ -1,20 +1,20 @@
-.container {
-  border: 2px solid;
-  color: #61210F;
-  border-radius: 20px;
-  border-color: #A18276;
+body {
+  background-color: #9CFFD9;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
-.background {
-   background-image: linear-gradient(#F9EDCC, #FFEBE7, #ffffff);
-}
+.left {
+  position: relative;
+  background-color: #1A535C;
+  color: white;
+} 
 
 .tas {
       margin-top: 80px;
   font-family: 'Raleway', sans-serif;
 }
 .button {
-  background-color: #FACFAD;
+  background-color: #fad2b3;
   border: 3px solid #61210F;
   color: black;
   text-align: center;
@@ -46,7 +46,7 @@ header img {
 
 
 header {
-    background-color: #c59c7d;
+    background-color: #86949e;
     position: fixed;
     top: 0;
     left: 0;
@@ -66,12 +66,12 @@ header li {
 }
 
 header li a {
-    color: antiquewhite;
+    color: white;
     text-decoration: none;
 }
 
 header li a:hover {
-  color: #e2d1d0;
+  color: rgb(205, 221, 231);
 }
 .image figcaption{
 position: absolute;
