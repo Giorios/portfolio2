@@ -1,14 +1,19 @@
 body {
   background-color: #9CFFD9;
   font-family: 'IBM Plex Sans', sans-serif;
+  overflow-x: hidden;
 }
 
-.left {
-  position: relative;
+.color2 {
   background-color: #1A535C;
   color: white;
 } 
+.right {
 
+  background-color: #1A535C;
+  color: white;
+  justify-content: end;
+} 
 .tas {
       margin-top: 80px;
   font-family: 'Raleway', sans-serif;
