@@ -18,9 +18,12 @@ body {
 }
 
 .button {
-  background-color: #fad2b3;
-  border: 3px solid #61210F;
-  color: black;
+  
+  height: 60px;
+  width: 120px;
+  background-color: #1A535C;
+  border: 3px solid #86949e;
+  color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -29,9 +32,11 @@ body {
 }
 
 .button1:hover {
-  background-color: #ffe2cc;
-  border: 4px solid #603a2e;
-  color: black;
+  height: 60px;
+  width: 120px;
+  background-color: #5a2328;
+  border: 4px solid #86949e;
+  color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -40,9 +45,9 @@ body {
 }
 
 .button:active {
-  background-color: #f5a4a1;
-  border: 5px solid #f5e5ab;
-  color: black;
+  background-color: #5a2328;
+  border: 5px solid #f9ada0;
+  color: white;
 }
 
 header img {
